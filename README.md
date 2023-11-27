@@ -6,11 +6,8 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+[Overview](#overview) <span>/</span> [Built With](#built-with) <span>/</span> [Features](#features) <span>/</span>
+[Contact](#contact) <span>/</span> [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
