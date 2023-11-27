@@ -16,10 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="[https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY]">
-      Challenge
-    </a>
-  </h3>
+   [devChallenges]([https://duckduckgo.com "The best search engine for privacy"](https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY))
 </div>
 
 <!-- TABLE OF CONTENTS -->
