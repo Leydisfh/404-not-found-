@@ -2,7 +2,9 @@
 
 <h1 align="center">{404 Not Found}</h1>
 
-<a href="https://leydisfh.github.io/404-not-found-/" align="center"> Demo</a>
+<div  align="center">
+<a href="https://leydisfh.github.io/404-not-found-/"> Demo</a>  
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
