@@ -47,4 +47,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - GitHub [@Leydisfh](https://github.com/Leydisfh)
-- Linkedin [@linkedin](linkedin.com/in/leydis-fernández)
+- Linkedin [@linkedin](https://linkedin.com/in/leydis-fernández)
